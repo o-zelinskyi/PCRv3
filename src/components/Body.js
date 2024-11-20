@@ -9,6 +9,27 @@ const Body = () => {
           <h2 style={styles.name}>Dmytro Zabavskyi</h2>
           <p style={styles.position}>Tracker</p>
         </div>
+     </div>
+     <div style={styles.card}>
+        <img src={"/avatar-Danylo.png"} alt="Korol Danylo" style={styles.photo} />
+        <div style={styles.textContainer}>
+          <h2 style={styles.name}>Korol Danylo</h2>
+          <p style={styles.position}>Customer consultant</p>
+        </div>
+    </div>
+      <div style={styles.card}>
+        <img src={"/avatar-oleksandr.jpg"} alt="Oleksandr Zelinskyi" style={styles.photo} />
+        <div style={styles.textContainer}>
+          <h2 style={styles.name}>Oleksandr Zelinskyi</h2>
+          <p style={styles.position}>Coach</p>
+        </div>
+      </div>
+      <div style={styles.card}>
+        <img src={"/vlad-avatar.png"} alt="Vladyslav Yedynak" style={styles.photo} />
+        <div style={styles.textContainer}>
+          <h2 style={styles.name}>Vladyslav Yedynak</h2>
+          <p style={styles.position}>Full Stack Developer</p>
+        </div>
       </div>
     </main>
   );
