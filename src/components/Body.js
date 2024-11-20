@@ -11,7 +11,7 @@ const Body = () => {
         </div>
      </div>
      <div style={styles.card}>
-        <img src={"/avatar-Danylo.png"} alt="Korol Danylo" style={styles.photo} />
+        <img src={"/avatar-danylo.jpg"} alt="Korol Danylo" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Korol Danylo</h2>
           <p style={styles.position}>Customer consultant</p>
@@ -25,7 +25,7 @@ const Body = () => {
         </div>
       </div>
       <div style={styles.card}>
-        <img src={"/vlad-avatar.png"} alt="Vladyslav Yedynak" style={styles.photo} />
+        <img src={"/avatar-vlad.png"} alt="Vladyslav Yedynak" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Vladyslav Yedynak</h2>
           <p style={styles.position}>Full Stack Developer</p>
