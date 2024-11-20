@@ -38,7 +38,6 @@ const Body = () => {
           <p style={styles.position}>Backend Developer</p>
         </div>
       </div>
-
     </main>
   );
 };
